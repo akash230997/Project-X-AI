@@ -121,11 +121,12 @@ body{
     background-color: black;
     color: white;
     border: none;
-    transition: all 0.8s ease;
+    transition: all 0.5s ease;
+    cursor: pointer;
 }
 
 .menu ul li button:hover {
-    background-color: aliceblue;
+    background-color: white;
     color: black;
 }
 
@@ -149,7 +150,7 @@ body{
     /* border: 1px solid #000; */
     /* background-color: rgb(255, 192, 23); */
     /* background-image: url('/img/robot-g6a9b10495_1920.png'); */
-    background-image: url('/img/robot-g6b289e4bc_1920.jpg');
+    background-image: url('img/robot-g6b289e4bc_1920.jpg');
     background-position: 0% 50%;
     color: #E1E1F3;
 
@@ -302,7 +303,7 @@ body{
 
 .wrp {
     /* background-color: #E1E1F3; */
-    background-image: url('/img/robot-g6a9b10495_1920.png');
+    background-image: url('img/robot-g6a9b10495_1920.png');
     /* background-position: top top; */
     /* width: ; */
     height: 2000px;
